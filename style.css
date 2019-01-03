@@ -1,0 +1,21 @@
+}
+.rsvp-button{
+	font-family: "Pacifico";
+	padding: 5px 15px;
+	width: auto;
+	height: auto;
+	color: blue;
+	background-color: green;
+	float: right;
+	cursor: pointer;
+ 
+}
+
+.rsvp-button: hover{
+	color: yellow;
+	background-color: white;
+}
+
+.gallery-container{
+	margin-top: 52px;
+}
